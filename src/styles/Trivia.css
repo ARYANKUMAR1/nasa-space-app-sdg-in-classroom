@@ -1,0 +1,17 @@
+.trivia-page {
+    padding: 20px;
+}
+
+.question-block {
+    margin-bottom: 20px;
+}
+
+button.selected {
+    background-color: #d3d3d3;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
